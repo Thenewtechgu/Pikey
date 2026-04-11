@@ -44,5 +44,8 @@ I modified the footprint of a 1x3 pin header for it to be SMD
 
 <img width="275" height="307" alt="image" src="https://github.com/user-attachments/assets/e1bc3c6b-aab1-4120-abfd-30510e9ed81c" />
 
+<img width="610" height="593" alt="image" src="https://github.com/user-attachments/assets/fa8d7e29-1076-4b70-b4c4-7228fd42e407" />
+
+I want to be able to not turn my computer into a virus so i need a button and a status light 
 
 Time spent: 20 minutes
