@@ -60,3 +60,11 @@ Since I want this to be a normal USB drive as well so I need a sd card slot beca
 
 Time spent: 20 minutes
 
+# Monday 13th April
+<img width="877" height="431" alt="image" src="https://github.com/user-attachments/assets/d7ae3f51-15ee-4e11-b32d-0740eadae7b5" />
+
+I added a bluetooth moudle so the key can be a sitting duck and the payload can be activated remotely
+This took the longest time because of its complexity 
+Time spent: 50 minutes
+
+
