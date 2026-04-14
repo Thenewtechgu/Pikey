@@ -67,4 +67,28 @@ I added a bluetooth moudle so the key can be a sitting duck and the payload can 
 This took the longest time because of its complexity 
 Time spent: 50 minutes
 
+# Tuesday 14th April
+
+Making the BOM file
+So I want to make sure before I move on that all the parts needed are avalible so that I dont lose time redesigning.
+
+<img width="1440" height="900" alt="Screenshot 2026-04-14 at 21 41 14" src="https://github.com/user-attachments/assets/1caba28c-db83-4fe3-9c88-909d90eb2263" />
+
+All done!!
+
+<img width="678" height="171" alt="image" src="https://github.com/user-attachments/assets/aa40d54f-b652-4904-a21a-6e8305471930" />
+
+Opps
+<img width="960" height="36" alt="image" src="https://github.com/user-attachments/assets/bcacf814-40f0-4c12-84ed-ce2a2b8acb94" />
+
+Wrong code:))
+
+<img width="1417" height="665" alt="image" src="https://github.com/user-attachments/assets/a81af537-7639-4777-9306-f861b2e1ae26" />
+
+THAT'S IS BIG I MIGHT RECONSIDER REMOVING THE BLUETOOTH CHIP FOR MONEY SAKE. ( A PROBLEM FOR ADAM OF TOMOROW)
+
+
+
+
+
 
