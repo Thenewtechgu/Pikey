@@ -69,6 +69,8 @@ Time spent: 50 minutes
 
 # Tuesday 14th April
 
+Time spent: 40 minutes
+
 Making the BOM file
 So I want to make sure before I move on that all the parts needed are avalible so that I dont lose time redesigning.
 
@@ -87,7 +89,7 @@ Wrong code:))
 
 THAT'S IS BIG I MIGHT RECONSIDER REMOVING THE BLUETOOTH CHIP FOR MONEY SAKE. ( A PROBLEM FOR ADAM OF TOMOROW)
 
-Time spent: 40 minutes
+
 
 
 
