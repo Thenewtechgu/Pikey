@@ -86,6 +86,7 @@ Wrong code:))
 <img width="1417" height="665" alt="image" src="https://github.com/user-attachments/assets/a81af537-7639-4777-9306-f861b2e1ae26" />
 
 THAT'S IS BIG I MIGHT RECONSIDER REMOVING THE BLUETOOTH CHIP FOR MONEY SAKE. ( A PROBLEM FOR ADAM OF TOMOROW)
+
 Time spent: 40 minutes
 
 
