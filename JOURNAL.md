@@ -95,7 +95,7 @@ My midterms are done so it's time to finish this!
 I've decided to remove the bluetooth chip all together because of the space needed for the ant that Pikey wont have if I want this to be a small footprint device
 
 <img width="828" height="459" alt="image" src="https://github.com/user-attachments/assets/190d36cd-d188-42e8-8648-f89947739258" />
-
+Time spent: 0.084 hours
 Byebye for now
 
 
