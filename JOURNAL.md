@@ -5,7 +5,7 @@ After 30 minutes of searching I have finally found a usb-c male connector that h
 
 <img width="431" height="289" alt="image" src="https://github.com/user-attachments/assets/a5d8149d-509d-4a84-bf42-8477bd38385d" />
 
-Time spent: 40 minutes
+Time spent: 0.67 hours
 
 # Saturday 11th April: 
 RP2350B required parts
@@ -49,7 +49,7 @@ Reset and others
 
 I want to be able to not turn my computer into a virus so i need a button and a status light 
 
-Time spent: 60 minutes
+Time spent: 1.25 hours
 
 # Sunday 12th April:
 
@@ -58,18 +58,18 @@ Sd card holder:
 Since I want this to be a normal USB drive as well so I need a sd card slot because nand is too expensive 
 <img width="394" height="399" alt="image" src="https://github.com/user-attachments/assets/03c24719-1c45-4df9-b98f-34a450e4f63e" />
 
-Time spent: 20 minutes
+Time spent: 0.3 hour
 
 # Monday 13th April
 <img width="877" height="431" alt="image" src="https://github.com/user-attachments/assets/d7ae3f51-15ee-4e11-b32d-0740eadae7b5" />
 
 I added a bluetooth moudle so the key can be a sitting duck and the payload can be activated remotely
 This took the longest time because of its complexity 
-Time spent: 50 minutes
+Time spent: 0.834 hours
 
 # Tuesday 14th April
 
-Time spent: 40 minutes
+Time spent: 0.67 hour
 
 Making the BOM file
 So I want to make sure before I move on that all the parts needed are avalible so that I dont lose time redesigning.
@@ -88,6 +88,15 @@ Wrong code:))
 <img width="1417" height="665" alt="image" src="https://github.com/user-attachments/assets/a81af537-7639-4777-9306-f861b2e1ae26" />
 
 THAT'S IS BIG I MIGHT RECONSIDER REMOVING THE BLUETOOTH CHIP FOR MONEY SAKE. ( A PROBLEM FOR ADAM OF TOMOROW)
+
+# Monday 20th April
+My midterms are done so it's time to finish this!
+
+I've decided to remove the bluetooth chip all together because of the space needed for the ant that Pikey wont have if I want this to be a small footprint device
+
+<img width="828" height="459" alt="image" src="https://github.com/user-attachments/assets/190d36cd-d188-42e8-8648-f89947739258" />
+Time spent: 0.084 hours
+Byebye for now
 
 
 
