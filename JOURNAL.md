@@ -104,7 +104,7 @@ Byebye for now
 
 I have finished placing all the components. Now whats left is to route and design a case of it.
 
-Time spent: 0.5 hours
+Time spent: 0.75 hours
 
 
 
