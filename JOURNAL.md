@@ -98,6 +98,14 @@ I've decided to remove the bluetooth chip all together because of the space need
 Time spent: 0.084 hours
 Byebye for now
 
+# Monday 27th April
+
+<img width="259" height="500" alt="image" src="https://github.com/user-attachments/assets/1f851b83-e904-422e-81de-347cc89fd8ef" />
+
+I have finished placing all the components. Now whats left is to route and design a case of it.
+
+Time spent: 0.5 hours
+
 
 
 
