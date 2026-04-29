@@ -129,7 +129,13 @@ Wiring completed!!!
 
 Just this to deal with this before 3d modeling!
 
-Time spent: 55 minutes
+Most of the DRC error was because of the vias but I check JLCPCB's abilities and procceded
+
+So I made some cutouts for a case
+
+<img width="311" height="560" alt="image" src="https://github.com/user-attachments/assets/25398af1-0986-410d-b7da-3edb2f83cd79" />
+
+Time spent: 1.75 hours
 
 
 
