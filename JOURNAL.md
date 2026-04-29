@@ -106,6 +106,18 @@ I have finished placing all the components. Now whats left is to route and desig
 
 Time spent: 0.75 hours
 
+# Tuesday 28th April
+<img width="296" height="583" alt="image" src="https://github.com/user-attachments/assets/aa01fe4b-b17a-4f66-8776-5f1102155323" />
+
+Updating Kicad made me lose progress:(((
+
+Routing the board
+
+<img width="198" height="414" alt="image" src="https://github.com/user-attachments/assets/6c628c63-3e74-46f7-ab87-2ff4c6e0fbf2" />
+
+My progress rn
+
+Time spent: 55 minutes
 
 
 
