@@ -119,6 +119,19 @@ My progress rn
 
 Time spent: 55 minutes
 
+# Wednesday 29th April 
+
+<img width="304" height="570" alt="image" src="https://github.com/user-attachments/assets/3bbe4942-cedd-49fb-8482-caa0edf4223d" />
+
+Wiring completed!!!
+
+<img width="661" height="495" alt="image" src="https://github.com/user-attachments/assets/fbf5186e-99b0-4b57-8cba-daacfa38ec6d" />
+
+Just this to deal with this before 3d modeling!
+
+Time spent: 55 minutes
+
+
 
 
 
