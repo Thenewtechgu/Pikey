@@ -153,5 +153,16 @@ I realised that there are so much free space so I want to make the board smaller
 Time spent: 10 minutes
 
 # Friday 1st May
+Redesigning the board
+<img width="391" height="874" alt="image" src="https://github.com/user-attachments/assets/6639cd41-f422-49c0-bbbc-4c28d05cada0" />
+
+I made the board to tight:((. Have to redo:/
+
+<img width="318" height="798" alt="Screenshot 2026-05-01 at 16 27 55" src="https://github.com/user-attachments/assets/032d4d34-ad43-4195-80c0-bfea360dab01" />
+
+Hopefully 3rd time goes well
+
+Time spent: 2.3 hours
+
 
 
