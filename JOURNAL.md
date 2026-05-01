@@ -1,4 +1,4 @@
-# Friday 10th April:
+<img width="531" height="328" alt="image" src="https://github.com/user-attachments/assets/7737206b-bfc4-45a3-b199-5d3a33acc48d" /># Friday 10th April:
 <img width="451" height="354" alt="image" src="https://github.com/user-attachments/assets/40d5cdd6-a932-4bd6-9a17-a512fe3b66e2" />
 
 After 30 minutes of searching I have finally found a usb-c male connector that has a Kicad library and is on LCSC
@@ -137,9 +137,21 @@ So I made some cutouts for a case
 
 Time spent: 1.75 hours
 
+# Thursday 30th April
+<img width="531" height="328" alt="image" src="https://github.com/user-attachments/assets/fcebd28f-2ff4-412d-bf7b-707e0307886f" />
 
+I just found out that the usb c connector I was using is a slide in connector:(( So I have to use a new one (DX07P024MJ1R1500)
 
+Also from looking at the 3d render of the board
 
+<img width="337" height="659" alt="Screenshot 2026-05-01 at 10 42 46" src="https://github.com/user-attachments/assets/dff74dd9-6600-4ad2-8785-d5ec8fd6ca83" />
 
+<img width="342" height="638" alt="Screenshot 2026-05-01 at 10 42 55" src="https://github.com/user-attachments/assets/bdd10906-5fc9-4c63-824f-4712caff22dd" />
+
+I realised that there are so much free space so I want to make the board smaller so I'm going to be replacing and re-routing the board.
+
+Time spent: 10 minutes
+
+# Friday 1st May
 
 
