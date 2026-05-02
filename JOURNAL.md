@@ -164,5 +164,18 @@ Hopefully 3rd time goes well
 
 Time spent: 2.3 hours
 
+# Saturday 2nd May
+<img width="249" height="576" alt="image" src="https://github.com/user-attachments/assets/c57fc1b1-6043-4d5c-8631-2a733419cb02" />
+
+All done!!!
+
+<img width="778" height="516" alt="image" src="https://github.com/user-attachments/assets/2c2b9262-f4eb-4538-90d7-6c6abecbbee9" />
+
+(Had to change some the pins connected to the SD card reader so that it connects)
+
+Time spent 2.5 hours
+
+
+
 
 
