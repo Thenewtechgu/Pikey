@@ -1,4 +1,4 @@
-# Friday 10th April:
+<img width="531" height="328" alt="image" src="https://github.com/user-attachments/assets/7737206b-bfc4-45a3-b199-5d3a33acc48d" /># Friday 10th April:
 <img width="451" height="354" alt="image" src="https://github.com/user-attachments/assets/40d5cdd6-a932-4bd6-9a17-a512fe3b66e2" />
 
 After 30 minutes of searching I have finally found a usb-c male connector that has a Kicad library and is on LCSC
@@ -129,9 +129,56 @@ Wiring completed!!!
 
 Just this to deal with this before 3d modeling!
 
-Time spent: 55 minutes
+Most of the DRC error was because of the vias but I check JLCPCB's abilities and procceded
 
+So I made some cutouts for a case
 
+<img width="311" height="560" alt="image" src="https://github.com/user-attachments/assets/25398af1-0986-410d-b7da-3edb2f83cd79" />
+
+Time spent: 1.75 hours
+
+# Thursday 30th April
+<img width="531" height="328" alt="image" src="https://github.com/user-attachments/assets/fcebd28f-2ff4-412d-bf7b-707e0307886f" />
+
+I just found out that the usb c connector I was using is a slide in connector:(( So I have to use a new one (DX07P024MJ1R1500)
+
+Also from looking at the 3d render of the board
+
+<img width="337" height="659" alt="Screenshot 2026-05-01 at 10 42 46" src="https://github.com/user-attachments/assets/dff74dd9-6600-4ad2-8785-d5ec8fd6ca83" />
+
+<img width="342" height="638" alt="Screenshot 2026-05-01 at 10 42 55" src="https://github.com/user-attachments/assets/bdd10906-5fc9-4c63-824f-4712caff22dd" />
+
+I realised that there are so much free space so I want to make the board smaller so I'm going to be replacing and re-routing the board.
+
+Time spent: 10 minutes
+
+# Friday 1st May
+Redesigning the board
+<img width="391" height="874" alt="image" src="https://github.com/user-attachments/assets/6639cd41-f422-49c0-bbbc-4c28d05cada0" />
+
+I made the board to tight:((. Have to redo:/
+
+<img width="318" height="798" alt="Screenshot 2026-05-01 at 16 27 55" src="https://github.com/user-attachments/assets/032d4d34-ad43-4195-80c0-bfea360dab01" />
+
+Hopefully 3rd time goes well
+
+Time spent: 2.3 hours
+
+# Saturday 2nd May
+<img width="249" height="576" alt="image" src="https://github.com/user-attachments/assets/c57fc1b1-6043-4d5c-8631-2a733419cb02" />
+
+All done!!!
+
+<img width="778" height="516" alt="image" src="https://github.com/user-attachments/assets/2c2b9262-f4eb-4538-90d7-6c6abecbbee9" />
+
+(Had to change some the pins connected to the SD card reader so that it connects)
+
+Added some text and a QR code to the Github page
+
+<img width="232" height="211" alt="Screenshot 2026-05-02 at 21 10 47" src="https://github.com/user-attachments/assets/84eea862-6b4c-4d5e-8374-7108658a4f10" />
+<img width="180" height="618" alt="Screenshot 2026-05-02 at 21 10 00" src="https://github.com/user-attachments/assets/809c3ab7-bf59-466e-80e6-ff066260669b" />
+
+Time spent 3 hours
 
 
 
