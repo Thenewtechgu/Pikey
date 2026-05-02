@@ -173,7 +173,12 @@ All done!!!
 
 (Had to change some the pins connected to the SD card reader so that it connects)
 
-Time spent 2.5 hours
+Added some text and a QR code to the Github page
+
+<img width="232" height="211" alt="Screenshot 2026-05-02 at 21 10 47" src="https://github.com/user-attachments/assets/84eea862-6b4c-4d5e-8374-7108658a4f10" />
+<img width="180" height="618" alt="Screenshot 2026-05-02 at 21 10 00" src="https://github.com/user-attachments/assets/809c3ab7-bf59-466e-80e6-ff066260669b" />
+
+Time spent 3 hours
 
 
 
