@@ -184,6 +184,11 @@ Time spent 3 hours
 
 Updated Readme and uploaded the production files.
 
+(For making the requirment for this journal I'm just gonna put a photo of the schematic)
+
+<img width="1123" height="794" alt="image" src="https://github.com/user-attachments/assets/9ff474da-31ce-495e-bf54-aa1dd96b085d" />
+
+
 Time spent 0.2 hours
 
 
