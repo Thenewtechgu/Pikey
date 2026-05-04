@@ -180,7 +180,11 @@ Added some text and a QR code to the Github page
 
 Time spent 3 hours
 
+# Monday 4th May 
 
+Updated Readme and uploaded the production files.
+
+Time spent 0.2 hours
 
 
 
