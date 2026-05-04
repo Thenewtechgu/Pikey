@@ -1,0 +1,193 @@
+** Drc report for Pikey.kicad_pcb **
+** Created on 2026-05-03T11:45:36 **
+** Report includes: Errors, Warnings **
+
+** Found 39 DRC violations **
+[shorting_items]: Items shorting two nets (nets Net-(J3-CMD) and CMD)
+    Local override; error
+    @(4684.64 mils, 2736.02 mils): Pad 3 [Net-(J3-CMD)] of J3 on F.Cu
+    @(4684.64 mils, 2736.02 mils): Track [CMD] on F.Cu, length 0.13 mils
+[clearance]: Clearance violation ( clearance 7.87 mils; actual 7.74 mils)
+    Local override; error
+    @(4684.50 mils, 2735.75 mils): Via [CMD] on F.Cu - B.Cu
+    @(4684.64 mils, 2736.02 mils): Pad 3 [Net-(J3-CMD)] of J3 on F.Cu
+[shorting_items]: Items shorting two nets (nets CMD and Net-(J3-CMD))
+    Local override; error
+    @(4684.64 mils, 2735.89 mils): Track [CMD] on F.Cu, length 0.19 mils
+    @(4684.64 mils, 2736.02 mils): Pad 3 [Net-(J3-CMD)] of J3 on F.Cu
+[shorting_items]: Items shorting two nets (nets Net-(J3-CMD) and CMD)
+    Local override; error
+    @(4684.64 mils, 2736.02 mils): Pad 3 [Net-(J3-CMD)] of J3 on F.Cu
+    @(4684.64 mils, 2736.02 mils): Track [CMD] on F.Cu, length 20.06 mils
+[shorting_items]: Items shorting two nets (nets CMD and Net-(J3-CMD))
+    Local override; error
+    @(4670.45 mils, 2750.21 mils): Track [CMD] on F.Cu, length 76.65 mils
+    @(4684.64 mils, 2736.02 mils): Pad 3 [Net-(J3-CMD)] of J3 on F.Cu
+[clearance]: Clearance violation ( clearance 7.87 mils; actual 7.16 mils)
+    Local override; error
+    @(4671.84 mils, 1904.53 mils): Pad B6 [Net-(J2-DA+)] of J2 on B.Cu
+    @(4618.76 mils, 1853.00 mils): Track [B_VBUS] on B.Cu, length 86.47 mils
+[clearance]: Clearance violation ( clearance 7.87 mils; actual 7.10 mils)
+    Local override; error
+    @(4847.36 mils, 2739.69 mils): Track [+3.3V] on B.Cu, length 88.03 mils
+    @(4864.82 mils, 2753.87 mils): Pad 1 [DAT1] of R13 on B.Cu
+[clearance]: Clearance violation ( clearance 7.87 mils; actual 5.91 mils)
+    Local override; error
+    @(4393.31 mils, 2646.06 mils): PTH pad 1 [Net-(J1-Pin_1)] of J1
+    @(4393.31 mils, 2606.69 mils): PTH pad 2 [DET] of J1
+[clearance]: Clearance violation ( clearance 7.87 mils; actual 7.66 mils)
+    Local override; error
+    @(4550.78 mils, 1904.53 mils): Pad B12 [DET] of J2 on B.Cu
+    @(4523.71 mils, 1847.44 mils): Pad S8 [<no net>] of J2 on B.Cu
+[clearance]: Clearance violation ( clearance 7.87 mils; actual 7.66 mils)
+    Local override; error
+    @(4550.78 mils, 1904.53 mils): Pad A1 [DET] of J2 on F.Cu
+    @(4523.71 mils, 1847.44 mils): Pad S2 [<no net>] of J2 on F.Cu
+[clearance]: Clearance violation ( clearance 7.87 mils; actual 7.09 mils)
+    Local override; error
+    @(4724.41 mils, 2306.50 mils): Pad 1 [DM] of R2 on B.Cu
+    @(4724.41 mils, 2331.69 mils): Pad 2 [Net-(J2-DA-)] of R2 on B.Cu
+[clearance]: Clearance violation ( clearance 7.87 mils; actual 7.09 mils)
+    Local override; error
+    @(4912.20 mils, 3006.50 mils): Pad 1 [Net-(R7-Pad1)] of R8 on B.Cu
+    @(4912.20 mils, 3031.69 mils): Pad 2 [+3.3V] of R8 on B.Cu
+[clearance]: Clearance violation ( clearance 7.87 mils; actual 7.09 mils)
+    Local override; error
+    @(4912.60 mils, 2974.61 mils): Pad 1 [Net-(R7-Pad1)] of R7 on B.Cu
+    @(4912.60 mils, 2949.41 mils): Pad 2 [Net-(R7-Pad2)] of R7 on B.Cu
+[clearance]: Clearance violation ( clearance 7.87 mils; actual 7.09 mils)
+    Local override; error
+    @(4537.40 mils, 2513.78 mils): Pad 1 [DET] of R1 on B.Cu
+    @(4512.20 mils, 2513.78 mils): Pad 2 [Net-(J2-CC1)] of R1 on B.Cu
+[clearance]: Clearance violation ( clearance 7.87 mils; actual 7.09 mils)
+    Local override; error
+    @(4864.82 mils, 2753.87 mils): Pad 1 [DAT1] of R13 on B.Cu
+    @(4890.02 mils, 2753.87 mils): Pad 2 [+3.3V] of R13 on B.Cu
+[clearance]: Clearance violation ( clearance 7.87 mils; actual 7.68 mils)
+    Local override; error
+    @(4773.22 mils, 1904.53 mils): Pad A12 [DET] of J2 on F.Cu
+    @(4800.29 mils, 1882.87 mils): Pad S1 [<no net>] of J2 on F.Cu
+[clearance]: Clearance violation ( clearance 7.87 mils; actual 7.09 mils)
+    Local override; error
+    @(4864.82 mils, 2783.00 mils): Pad 1 [DAT0] of R12 on B.Cu
+    @(4890.02 mils, 2783.00 mils): Pad 2 [+3.3V] of R12 on B.Cu
+[clearance]: Clearance violation ( clearance 7.87 mils; actual 7.68 mils)
+    Local override; error
+    @(4773.22 mils, 1904.53 mils): Pad B1 [DET] of J2 on B.Cu
+    @(4800.29 mils, 1882.87 mils): Pad S7 [<no net>] of J2 on B.Cu
+[clearance]: Clearance violation ( clearance 7.87 mils; actual 7.09 mils)
+    Local override; error
+    @(4864.82 mils, 2812.53 mils): Pad 1 [CMD] of R11 on B.Cu
+    @(4890.02 mils, 2812.53 mils): Pad 2 [+3.3V] of R11 on B.Cu
+[clearance]: Clearance violation ( clearance 7.87 mils; actual 7.09 mils)
+    Local override; error
+    @(4684.19 mils, 2306.50 mils): Pad 1 [DP] of R3 on B.Cu
+    @(4684.19 mils, 2331.69 mils): Pad 2 [Net-(J2-DA+)] of R3 on B.Cu
+[clearance]: Clearance violation ( clearance 7.87 mils; actual 7.09 mils)
+    Local override; error
+    @(4864.82 mils, 2842.06 mils): Pad 1 [DAT3] of R10 on B.Cu
+    @(4890.02 mils, 2842.06 mils): Pad 2 [+3.3V] of R10 on B.Cu
+[clearance]: Clearance violation ( clearance 7.87 mils; actual 7.09 mils)
+    Local override; error
+    @(4864.82 mils, 2872.37 mils): Pad 1 [DAT2] of R9 on B.Cu
+    @(4890.02 mils, 2872.37 mils): Pad 2 [+3.3V] of R9 on B.Cu
+[clearance]: Clearance violation ( clearance 7.87 mils; actual 7.09 mils)
+    Local override; error
+    @(4903.00 mils, 2364.60 mils): Pad 1 [DET] of R14 on F.Cu
+    @(4903.00 mils, 2339.40 mils): Pad 2 [Net-(J2-CC2)] of R14 on F.Cu
+[clearance]: Clearance violation ( clearance 7.87 mils; actual 5.91 mils)
+    Local override; error
+    @(4398.00 mils, 2148.26 mils): Pad 1 [Net-(J4-Pin_1)] of J4 on B.Cu
+    @(4398.00 mils, 2187.63 mils): Pad 2 [DET] of J4 on B.Cu
+[clearance]: Clearance violation ( clearance 7.87 mils; actual 5.91 mils)
+    Local override; error
+    @(4398.00 mils, 2187.63 mils): Pad 2 [DET] of J4 on B.Cu
+    @(4398.00 mils, 2227.00 mils): Pad 3 [Net-(J4-Pin_3)] of J4 on B.Cu
+[clearance]: Clearance violation ( clearance 7.87 mils; actual 5.91 mils)
+    Local override; error
+    @(4932.28 mils, 2645.67 mils): PTH pad 1 [Net-(J5-Pin_1)] of J5
+    @(4932.28 mils, 2606.30 mils): PTH pad 2 [DET] of J5
+[clearance]: Clearance violation (barcode visual separation default clearance 39.37 mils; actual 26.08 mils)
+    Rule: barcode visual separation default; error
+    @(4824.00 mils, 2395.00 mils): Barcode 'https://github.com/Thenewtechgu/Pikey' on B.Silkscreen
+    @(4730.12 mils, 2405.51 mils): Circle of Y1 on B.Silkscreen
+[clearance]: Clearance violation (barcode visual separation default clearance 39.37 mils; actual 24.42 mils)
+    Rule: barcode visual separation default; error
+    @(4824.00 mils, 2395.00 mils): Barcode 'https://github.com/Thenewtechgu/Pikey' on B.Silkscreen
+    @(4901.00 mils, 2306.00 mils): Via [+5V] on F.Cu - B.Cu
+[clearance]: Clearance violation (barcode visual separation default clearance 39.37 mils; actual 24.42 mils)
+    Rule: barcode visual separation default; error
+    @(4824.00 mils, 2305.00 mils): Via [Net-(U1-ADC_AVDD)] on F.Cu - B.Cu
+    @(4824.00 mils, 2395.00 mils): Barcode 'https://github.com/Thenewtechgu/Pikey' on B.Silkscreen
+[clearance]: Clearance violation (barcode visual separation default clearance 39.37 mils; actual 22.28 mils)
+    Rule: barcode visual separation default; error
+    @(4734.00 mils, 2364.00 mils): Via [Net-(U1-QSPI_SD3)] on F.Cu - B.Cu
+    @(4824.00 mils, 2395.00 mils): Barcode 'https://github.com/Thenewtechgu/Pikey' on B.Silkscreen
+[clearance]: Clearance violation (barcode visual separation default clearance 39.37 mils; actual 27.22 mils)
+    Rule: barcode visual separation default; error
+    @(4759.00 mils, 2300.00 mils): Via [1.1V] on F.Cu - B.Cu
+    @(4824.00 mils, 2395.00 mils): Barcode 'https://github.com/Thenewtechgu/Pikey' on B.Silkscreen
+[clearance]: Clearance violation (barcode visual separation default clearance 39.37 mils; actual 31.79 mils)
+    Rule: barcode visual separation default; error
+    @(4724.41 mils, 2331.69 mils): Via [Net-(J2-DA-)] on F.Cu - B.Cu
+    @(4824.00 mils, 2395.00 mils): Barcode 'https://github.com/Thenewtechgu/Pikey' on B.Silkscreen
+[clearance]: Clearance violation (barcode visual separation default clearance 39.37 mils; actual 38.45 mils)
+    Rule: barcode visual separation default; error
+    @(4726.00 mils, 2306.00 mils): Via [DM] on F.Cu - B.Cu
+    @(4824.00 mils, 2395.00 mils): Barcode 'https://github.com/Thenewtechgu/Pikey' on B.Silkscreen
+[clearance]: Clearance violation (barcode visual separation default clearance 39.37 mils; actual 14.36 mils)
+    Rule: barcode visual separation default; error
+    @(4852.76 mils, 2477.17 mils): Segment of L2 on B.Silkscreen
+    @(4824.00 mils, 2395.00 mils): Barcode 'https://github.com/Thenewtechgu/Pikey' on B.Silkscreen
+[clearance]: Clearance violation (barcode visual separation default clearance 39.37 mils; actual 14.36 mils)
+    Rule: barcode visual separation default; error
+    @(4860.63 mils, 2477.17 mils): Segment of L2 on B.Silkscreen
+    @(4824.00 mils, 2395.00 mils): Barcode 'https://github.com/Thenewtechgu/Pikey' on B.Silkscreen
+[clearance]: Clearance violation (barcode visual separation default clearance 39.37 mils; actual 14.36 mils)
+    Rule: barcode visual separation default; error
+    @(4856.69 mils, 2477.17 mils): Arc of L2 on B.Silkscreen
+    @(4824.00 mils, 2395.00 mils): Barcode 'https://github.com/Thenewtechgu/Pikey' on B.Silkscreen
+[clearance]: Clearance violation (barcode visual separation default clearance 39.37 mils; actual 10.43 mils)
+    Rule: barcode visual separation default; error
+    @(4856.69 mils, 2477.17 mils): Arc of L2 on B.Silkscreen
+    @(4824.00 mils, 2395.00 mils): Barcode 'https://github.com/Thenewtechgu/Pikey' on B.Silkscreen
+[clearance]: Clearance violation (barcode visual separation default clearance 39.37 mils; actual 7.45 mils)
+    Rule: barcode visual separation default; error
+    @(4749.00 mils, 2426.00 mils): Via [CMD] on F.Cu - B.Cu
+    @(4824.00 mils, 2395.00 mils): Barcode 'https://github.com/Thenewtechgu/Pikey' on B.Silkscreen
+[clearance]: Clearance violation (barcode visual separation default clearance 39.37 mils; actual 0.00 mils)
+    Rule: barcode visual separation default; error
+    @(4813.00 mils, 2427.00 mils): Via [1.1V] on F.Cu - B.Cu
+    @(4824.00 mils, 2395.00 mils): Barcode 'https://github.com/Thenewtechgu/Pikey' on B.Silkscreen
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Board edge clearance violation
+    - Hole clearance violation
+    - Drilled hole too close to other hole
+    - Drilled holes co-located
+    - Track width
+    - Track angle
+    - Track segment length
+    - Annular width
+    - Hole size out of range
+    - Micro via hole size out of range
+    - Courtyards overlap
+    - Footprint has no courtyard defined
+    - Footprint has malformed courtyard
+    - Board has malformed outline
+    - Copper sliver
+    - Solder mask aperture bridges items with different nets
+    - Copper connection too narrow
+    - Track connected to post-machined or backdrilled layer
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - PTH inside courtyard
+    - NPTH inside courtyard
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **

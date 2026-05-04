@@ -6240,6 +6240,16 @@
 	)
 	(wire
 		(pts
+			(xy 22.86 143.51) (xy 27.94 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "031d2156-9b34-4b17-86c9-02d6460a73df")
+	)
+	(wire
+		(pts
 			(xy 125.73 40.64) (xy 127 40.64)
 		)
 		(stroke
@@ -6307,6 +6317,16 @@
 			(type default)
 		)
 		(uuid "1ecb7689-72e1-4e55-a1c9-e100cc5a3a8c")
+	)
+	(wire
+		(pts
+			(xy 24.13 147.32) (xy 34.29 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "205e6ad6-caa9-4dbc-8f9e-3f0b6c85d8d6")
 	)
 	(wire
 		(pts
@@ -6387,6 +6407,16 @@
 			(type default)
 		)
 		(uuid "325e4353-f7fe-4eff-9abe-af6aee3670b3")
+	)
+	(wire
+		(pts
+			(xy 30.48 143.51) (xy 35.56 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3337d4da-56f8-441f-9bed-a2a1f1a7f6b4")
 	)
 	(wire
 		(pts
@@ -6527,6 +6557,16 @@
 			(type default)
 		)
 		(uuid "57114a23-4707-4ee9-8721-4b7cdbc293a3")
+	)
+	(wire
+		(pts
+			(xy 16.51 147.32) (xy 27.94 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "586ae70a-970b-4f81-8eec-ca7afeeebcfe")
 	)
 	(wire
 		(pts
@@ -7050,6 +7090,16 @@
 	)
 	(wire
 		(pts
+			(xy 30.48 140.97) (xy 35.56 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cfd03b0d-037c-45a6-a02e-1bf7289d0314")
+	)
+	(wire
+		(pts
 			(xy 137.16 78.74) (xy 137.16 72.39)
 		)
 		(stroke
@@ -7198,6 +7248,16 @@
 		)
 		(uuid "faf4809d-41b5-4107-9b54-5db82b5031d1")
 	)
+	(wire
+		(pts
+			(xy 22.86 140.97) (xy 27.94 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe8f40d2-d75f-4627-942b-c4e747eee4d4")
+	)
 	(global_label "GPIO11"
 		(shape input)
 		(at 100.33 109.22 270)
@@ -7270,57 +7330,9 @@
 			)
 		)
 	)
-	(global_label "DAT3"
-		(shape input)
-		(at 29.21 109.22 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "14b27a41-ede8-43e9-9dcb-aed150726ad6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.21 116.7409 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "DAT2"
 		(shape input)
-		(at 31.75 109.22 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "1bdacd2c-e198-4ed6-b086-beba9355587d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 31.75 116.7409 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "DAT2"
-		(shape input)
-		(at 27.94 143.51 180)
+		(at 22.86 140.97 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7330,7 +7342,31 @@
 		)
 		(uuid "1f21f20e-4538-4d41-838d-883bf7b50e9d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 20.4191 143.51 0)
+			(at 15.3391 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "DET"
+		(shape input)
+		(at 85.09 109.22 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "31333fc3-ceab-42ec-a200-763bf6cb0081")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 85.09 115.5918 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7390,6 +7426,30 @@
 			)
 		)
 	)
+	(global_label "DAT0"
+		(shape input)
+		(at 77.47 109.22 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "60188a31-5227-4f48-869e-8b82f91f0961")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 77.47 116.7409 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "GPIO12"
 		(shape input)
 		(at 97.79 109.22 270)
@@ -7416,7 +7476,7 @@
 	)
 	(global_label "CMD"
 		(shape input)
-		(at 27.94 148.59 180)
+		(at 17.78 149.86 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7426,7 +7486,7 @@
 		)
 		(uuid "66be083d-5925-4d22-be7d-af5e11eea659")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 20.9634 148.59 0)
+			(at 10.8034 149.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7440,7 +7500,7 @@
 	)
 	(global_label "DAT3"
 		(shape input)
-		(at 27.94 146.05 180)
+		(at 22.86 143.51 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7450,7 +7510,79 @@
 		)
 		(uuid "6dc9202e-9249-4abd-ba77-7eb72c1f2082")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 20.4191 146.05 0)
+			(at 15.3391 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "CMD"
+		(shape input)
+		(at 82.55 109.22 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7521b64d-4e6e-4a38-a856-b938db1abeeb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 82.55 116.1966 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "CLK"
+		(shape input)
+		(at 80.01 109.22 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "75416e4e-db8f-43f8-8473-e91c78664db0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 80.01 115.7733 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "DAT3"
+		(shape input)
+		(at 69.85 109.22 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8468e9d2-0662-47b9-9430-503215226889")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 69.85 116.7409 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7534,78 +7666,6 @@
 			)
 		)
 	)
-	(global_label "CMD"
-		(shape input)
-		(at 41.91 109.22 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "9ff9a525-147f-42f7-b42e-883d4e17e6b7")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 41.91 116.1966 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "DAT1"
-		(shape input)
-		(at 34.29 109.22 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "bfea2a2a-ce09-4019-b115-790ee9188102")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 34.29 116.7409 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "DAT0"
-		(shape input)
-		(at 36.83 109.22 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "c0efe476-5403-4413-96fa-320655566b91")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 36.83 116.7409 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "DAT1"
 		(shape input)
 		(at 27.94 161.29 180)
@@ -7619,30 +7679,6 @@
 		(uuid "c2fd29f5-c1ea-4490-b709-c9f6c2857001")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 20.4191 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "DET"
-		(shape input)
-		(at 44.45 109.22 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "c564159a-951d-47ba-9ab9-55b79f3cf226")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 44.45 115.5918 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7726,6 +7762,30 @@
 			)
 		)
 	)
+	(global_label "DAT2"
+		(shape input)
+		(at 72.39 109.22 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d38fb38e-cc04-4f1d-9355-56f0461cbf5d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 72.39 116.7409 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "GPIO14"
 		(shape input)
 		(at 92.71 109.22 270)
@@ -7739,30 +7799,6 @@
 		(uuid "d7f09ca3-e915-42fb-9e84-3d183ed8e73e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 92.71 119.0995 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "CLK"
-		(shape input)
-		(at 39.37 109.22 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "dc320046-68d4-4767-bb0e-6071c28fbdf1")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 39.37 115.7733 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7811,6 +7847,30 @@
 		(uuid "e4843cba-012e-4b03-aa17-9f393f8e051e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 90.17 119.0995 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "DAT1"
+		(shape input)
+		(at 74.93 109.22 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e62439d9-d72b-4a2c-91f4-ae2f5cd120b1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 74.93 116.7409 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9139,6 +9199,28 @@
 				(justify bottom)
 			)
 		)
+		(property "LCSC Part number" "C134112"
+			(at 210.82 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Name" "JAE Electronics DX07P024MJ1R1500"
+			(at 210.82 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "S4"
 			(uuid "8c3fb9da-2ff1-4f02-a8d2-bf28b4b6d5e2")
 		)
@@ -10046,7 +10128,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -10374,7 +10456,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 31.75 148.59 90)
+		(at 20.32 147.32 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10382,10 +10464,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "53eb5881-6f3c-4e94-8488-de94fe3d09e0")
 		(property "Reference" "R11"
-			(at 30.4799 146.05 0)
+			(at 7.62 148.336 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10396,7 +10477,7 @@
 			)
 		)
 		(property "Value" "10kΩ"
-			(at 33.0199 146.05 0)
+			(at 21.5899 144.78 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10407,7 +10488,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 31.75 150.368 90)
+			(at 20.32 149.098 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10418,7 +10499,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 31.75 148.59 0)
+			(at 20.32 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10429,7 +10510,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 31.75 148.59 0)
+			(at 20.32 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10440,7 +10521,7 @@
 			)
 		)
 		(property "KLC_S4.2_DVDD" ""
-			(at 31.75 148.59 0)
+			(at 20.32 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10451,7 +10532,7 @@
 			)
 		)
 		(property "KLC_S4.2_VREG_LX" ""
-			(at 31.75 148.59 0)
+			(at 20.32 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10462,7 +10543,7 @@
 			)
 		)
 		(property "LCSC Part number" "C60490"
-			(at 31.75 148.59 0)
+			(at 20.32 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10473,7 +10554,7 @@
 			)
 		)
 		(property "Name" "YAGEO RC0402FR-0710KL"
-			(at 31.75 148.59 0)
+			(at 20.32 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11816,7 +11897,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 31.75 146.05 90)
+		(at 26.67 143.51 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11827,7 +11908,7 @@
 		(fields_autoplaced yes)
 		(uuid "6f0ba429-84f2-403a-8078-f00bfb5081bd")
 		(property "Reference" "R10"
-			(at 30.4799 143.51 0)
+			(at 25.3999 140.97 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11838,7 +11919,7 @@
 			)
 		)
 		(property "Value" "10kΩ"
-			(at 33.0199 143.51 0)
+			(at 27.9399 140.97 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11849,7 +11930,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 31.75 147.828 90)
+			(at 26.67 145.288 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11860,7 +11941,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 31.75 146.05 0)
+			(at 26.67 143.51 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11871,7 +11952,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 31.75 146.05 0)
+			(at 26.67 143.51 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11882,7 +11963,7 @@
 			)
 		)
 		(property "KLC_S4.2_DVDD" ""
-			(at 31.75 146.05 0)
+			(at 26.67 143.51 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11893,7 +11974,7 @@
 			)
 		)
 		(property "KLC_S4.2_VREG_LX" ""
-			(at 31.75 146.05 0)
+			(at 26.67 143.51 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11904,7 +11985,7 @@
 			)
 		)
 		(property "LCSC Part number" "C60490"
-			(at 31.75 146.05 0)
+			(at 26.67 143.51 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11915,7 +11996,7 @@
 			)
 		)
 		(property "Name" "YAGEO RC0402FR-0710KL"
-			(at 31.75 146.05 0)
+			(at 26.67 143.51 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12571,7 +12652,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 31.75 143.51 90)
+		(at 26.67 140.97 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12582,7 +12663,7 @@
 		(fields_autoplaced yes)
 		(uuid "7bf32a1d-3400-4e09-9c44-eb122ed8e1e1")
 		(property "Reference" "R9"
-			(at 30.4799 140.97 0)
+			(at 25.3999 138.43 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12593,7 +12674,7 @@
 			)
 		)
 		(property "Value" "10kΩ"
-			(at 33.0199 140.97 0)
+			(at 27.9399 138.43 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12604,7 +12685,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 31.75 145.288 90)
+			(at 26.67 142.748 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12615,7 +12696,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 31.75 143.51 0)
+			(at 26.67 140.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12626,7 +12707,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 31.75 143.51 0)
+			(at 26.67 140.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12637,7 +12718,7 @@
 			)
 		)
 		(property "KLC_S4.2_DVDD" ""
-			(at 31.75 143.51 0)
+			(at 26.67 140.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12648,7 +12729,7 @@
 			)
 		)
 		(property "KLC_S4.2_VREG_LX" ""
-			(at 31.75 143.51 0)
+			(at 26.67 140.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12659,7 +12740,7 @@
 			)
 		)
 		(property "LCSC Part number" "C60490"
-			(at 31.75 143.51 0)
+			(at 26.67 140.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12670,7 +12751,7 @@
 			)
 		)
 		(property "Name" "YAGEO RC0402FR-0710KL"
-			(at 31.75 143.51 0)
+			(at 26.67 140.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12902,7 +12983,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 35.56 148.59 270)
+		(at 34.29 146.05 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12913,7 +12994,7 @@
 		(fields_autoplaced yes)
 		(uuid "7e92c0de-54c5-4ed9-b264-cae991420c32")
 		(property "Reference" "#PWR031"
-			(at 31.75 148.59 0)
+			(at 30.48 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12924,7 +13005,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 40.64 148.59 0)
+			(at 39.37 146.05 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12934,7 +13015,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 35.56 148.59 0)
+			(at 34.29 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12945,7 +13026,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 35.56 148.59 0)
+			(at 34.29 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12956,7 +13037,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 35.56 148.59 0)
+			(at 34.29 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13903,7 +13984,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -15016,7 +15097,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b5a1fd17-201a-4a0d-9817-83d42bcda66c")
 		(property "Reference" "#PWR043"
 			(at 27.94 154.94 0)
@@ -15030,7 +15110,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 27.94 146.05 0)
+			(at 22.86 143.51 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16612,6 +16692,28 @@
 			)
 		)
 		(property "Description" "High Brightness Tri-Color LED, RGB, 3.5x2.8mm"
+			(at 116.84 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part number" "C2909770"
+			(at 116.84 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Name" "ROHM SMLVN6RGB1U1"
 			(at 116.84 125.73 0)
 			(hide yes)
 			(show_name no)
